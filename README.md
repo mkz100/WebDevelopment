@@ -134,3 +134,18 @@ https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F04y3k,Postgre
   The difference between relational database and object oriented database is that the relational data base stores data in the form of tables which contains rows and columns. Every column in the table has its specific name and every row of the table has its own primary key. While in the object oriented database the data is stored in the form of objects. In the object oriented data the data is stored along with its actions that processes or reads the existing data.
 * What is SQL vs NoSQL?
   
+## Programming Tools
+
+### VS Code
+
+### GitHub
+
+## A Dynamic Website Demo
+
+### Technologies Involved
+
+### How is it developed
+
+### How is it deployed
+
+
