@@ -59,7 +59,7 @@ https://trends.google.com/trends/explore?date=today%205-y&geo=CN&q=HTTP,HTTPS,HT
 * India = 5
 * US = 4
 
-![Java](resources/China-Java.png)
+![Java](resources/World-Java.png)
 * China = 100, Why?
 * India = 14
 * US = 5
