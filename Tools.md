@@ -9,6 +9,7 @@ https://code.visualstudio.com/
 Major IDEs World Distributions:
 https://trends.google.com/trends/explore?q=%2Fm%2F0134xwrk,%2Fm%2F01fs1d,%2Fm%2F03v0mn,%2Fm%2F0vpp538,%2Fm%2F01z_14
 ![](resources/World-vscode-eclips.jpg)
+https://trends.google.com/trends/explore?q=%2Fm%2F0134xwrk,%2Fm%2F01fs1d,%2Fm%2F0c00n4h,%2Fm%2F0vpp538,%2Fm%2F01z_14
 ![](resources/World-vscode-phpstorm.jpg) 
 
 * What does IDE stands for?
