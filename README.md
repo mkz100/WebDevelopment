@@ -120,6 +120,7 @@ https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F02qft91,%2Fm%
 * China is leading the world in using Nginx
 ### What are the popular databases?
 * MySQL.
+* Oracle.
 * PostgreSQL.
 * Microsoft SQL Server.
 * SQLite.
@@ -135,10 +136,7 @@ https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F04y3k,Postgre
 * What is SQL vs NoSQL?
   
 ## Programming Tools
-
-### VS Code
-
-### GitHub
+[Refer to Tools.md](Tools.md)
 
 ## A Dynamic Website Demo
 
