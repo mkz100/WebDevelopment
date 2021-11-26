@@ -1,4 +1,4 @@
-## Web 
+## Internet and Web
 
 * What is the Internet?  https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/what-is-the-internet
 * Wires, cables, and WiFi  https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/the-internet-wires-cables-and-wifi
